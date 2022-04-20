@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MehmetMagden
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning 
-  - Java 
+  - Core Java 
   - Selenium Grid 
   - Selenium
   - Git,Github
